@@ -17,5 +17,7 @@ public class UserEntity {
 
     private String nickname;
 
+    private String registrationId;
+
     private String role;
 }
